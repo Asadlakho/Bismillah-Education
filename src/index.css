@@ -1,0 +1,19 @@
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #e7f5d8;   /* light green background */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #5fb13c;   /* main green color */
+  border-radius: 10px;
+}
+
+body {
+  padding-top:50px;
+}
+
+
+
